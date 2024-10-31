@@ -1,9 +1,0 @@
-[submodule "repo5"]
-	path = repo5
-	url = https://github.com/sajidshaikh-ztech/repoA5.git
-[submodule "repo5.1"]
-	path = repo5.1
-	url = https://github.com/sajidshaikh-ztech/repoA5.git
-[submodule "src/main/java/repo5.2"]
-	path = src/main/java/repo5.2
-	url = https://github.com/sajidshaikh-ztech/repoA5.git
