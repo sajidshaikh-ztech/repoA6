@@ -1,0 +1,3 @@
+[submodule "repo5"]
+	path = repo5
+	url = https://github.com/sajidshaikh-ztech/repoA5.git
